@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:start01/login_page.dart';
 
 void main() {
   runApp(
@@ -9,18 +10,6 @@ void main() {
 class benim extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        backgroundColor: Colors.brown,
-        appBar: AppBar(
-          backgroundColor: Colors.teal,
-          title: Text("selam"),
-        ),
-        body: Center(
-            child: Container(
-                color: Colors.white,
-                child: Text("BİZİM AFFFETTİĞİMİZİ BİZ YAPSAK AFFETMEZLERDİ"))),
-      ),
-    );
+    return MaterialApp(home: Login());
   }
 }
