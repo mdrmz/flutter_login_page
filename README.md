@@ -1,5 +1,1 @@
-# flutter_deneme
- 
-Cankri Karatein Üniverstesi Bilgisayar mühendsiligi 2.sınıf ögrencisi ve
-42 kocaeli anaEgitim ögrencisi mehmet durmaz tarfından hazırlandı
-burada yaptıgım yeni bir programlama dili ögrenirken yaptıgım projeler ve Lab verilen ödevler olucak 
+![image]({https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white})
